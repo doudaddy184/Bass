@@ -2,3 +2,8 @@
 #输入
 pip install selenium -i http://pypi.douban.com/simple/ --trusted-host pypi.douban.com
 #从豆瓣服务器pip安装库文件
+
+#导入两个模块
+import requests
+from selenium import webdriver
+driver = webdriver.Chrome()
