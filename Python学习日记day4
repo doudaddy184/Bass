@@ -1,0 +1,3 @@
+#打开命令行CMD
+输入
+pip install selenium -i http://pypi.douban.com/simple/ --trusted-host pypi.douban.com
